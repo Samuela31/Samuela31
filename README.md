@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 
 I'm Samuela Abigail, an AI & DS graduate! I like collaborating with people and building unique real-time projects✨, and a coding enthusiast who loves coding in my free time😄. Teaching and learning together with peers is an enriching experience, so you'll find me lurking around discussion sections of many developer and coder platforms or just reading blog posts somewhere. Let's connect on LinkedIn to discuss doubts, learn, and grow together!
 
+### Tech Stack
+I've worked with projects in ![machine learning](https://img.shields.io/badge/Machine_Learning-8A2BE2), ![deep learning](https://img.shields.io/badge/Deep_Learning-A4B7F8), ![data analysis](https://img.shields.io/badge/Data_Analysis-ff20a3), and a little bit of ![HTML](https://img.shields.io/badge/HTML-a04c45)
+
 
 ### Coding Profiles
 You can find me on:
