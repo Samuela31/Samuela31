@@ -25,7 +25,7 @@ I've worked with projects in ![machine learning](https://img.shields.io/badge/Ma
   <img src="https://github.com/Samuela31/Samuela31/blob/main/c.png" alt="C Programming" width="60" height="60" style="border-radius: 50%;"/>
   <img src="https://github.com/Samuela31/Samuela31/blob/main/python.png" alt="Python Programming" width="50" height="60" style="border-radius: 50%;"/>
 
-- Databases: 
+- Databases: ![SQL](https://img.shields.io/badge/SQL*Plus_(Oracle)-fd9349), ![MySQL](https://img.shields.io/badge/MySQL-fde7f2?logo=mysql)
 
 
 ### Coding Profiles
