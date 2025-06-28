@@ -22,7 +22,7 @@ I'm Samuela Abigail, an AI & DS graduate! I like collaborating with people and b
 You can find me on:
 
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/samuela39)
-[![Coding Ninjas](https://img.shields.io/badge/Coding_Ninjas-orange)](https://www.naukri.com/code360/profile/ButtercupMiku)
+[![Coding Ninjas](https://img.shields.io/badge/Coding_Ninjas-Code360-DD6620?logo=codingninjas)](https://www.naukri.com/code360/profile/ButtercupMiku)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white)](https://www.codechef.com/users/samuela39)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/samuela39/)
 
